@@ -13,7 +13,7 @@ UserWWF.py
 - With each valid guess of an accurate word, user gets awarded a certain number of points
 - After each turn, user has the option to input more words that can be formed with the remaining letters, or get a final score
 
-<img src="images/UserWWF.png">
+<img src="images/UserWWF.PNG">
 
 CompWWF.py
 - Has all of the functionality of UserWWF.py with the additional option of playing against the computer
@@ -21,9 +21,9 @@ CompWWF.py
 - If user is playing by themselves, then the same functionality as UserWWF.py applies
 - If the computer is to play a hand, then the computer provides the combination of words that produce the highest total score per turn
 
-<img src="images/CompWWF.png">
+<img src="images/CompWWF.PNG">
 
 TestWWF.py
 - Simply runs a series of test on UserWWF.py to ensure the program works as expected
 
-<img src="images/TestWWF.png">
+<img src="images/TestWWF.PNG">
