@@ -27,3 +27,5 @@ TestWWF.py
 - Simply runs a series of test on UserWWF.py to ensure the program works as expected
 
 <img src="images/TestWWF.PNG">
+
+**Some accessory open source code/words file imported from MIT OCW*
